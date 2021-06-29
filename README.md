@@ -9,7 +9,7 @@ Xamarin Find a Job project WebAPI
 <li>Autofac</li>
 <li>FluentValidation</li>
 <li>MsSql</li>
-<li><a href="https://github.com/vlcnevl/ReCapProjectFrontend">Xamarin for Frontend</a></li>
+<li><a href=https://github.com/vlcnevl/XamarinProject">Xamarin for Frontend</a></li>
 </ul>
 </div>
 
